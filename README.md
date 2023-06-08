@@ -44,7 +44,7 @@
   An AI powered chatbot that is intended to help you with your Software Interview Preparation and doubts related to coding problems. Codie runs on the GPT-3 integrating with Intel One Api model, and is programmed specifically for Open Innovation in Education use case. 
    
    
-##How to Install the extension
+### How to Install the extension
 
 0. Download the build/ folder from [here](https://drive.google.com/drive/folders/1Rgn7SwjAYUYvbV8vGjwRazjggD3C0TEE?usp=share_link) and skip to step 4  And i have also added the build folder in this repo itself you can use that also. 
 
@@ -72,7 +72,7 @@ npm run build
 
 7. Select the build/ folder from the repo
 
-## Supported Platforms
+### Supported Platforms
 Currently, Codie supports questions from the following platforms
 - Leetcode
 - AlgoExpert
