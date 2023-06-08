@@ -11,6 +11,18 @@
   `Architecture Diagram`
   
   ![Screenshot_1](https://github.com/Kush134/intel-oneAPI-Jethakejabaz-/assets/37140352/f3ee9dfd-a5ba-4d39-81bf-eb951f341156)
+  
+  
+  ![Screenshot_2](https://github.com/Kush134/intel-oneAPI-Jethakejabaz-/assets/37140352/bccf37d5-5dcc-4a45-afaf-51677b659d54)
+
+
+
+![Screenshot_3](https://github.com/Kush134/intel-oneAPI-Jethakejabaz-/assets/37140352/91224c90-179f-4c7c-8a36-9d5856bef64e)
+
+
+
+![Screenshot_4](https://github.com/Kush134/intel-oneAPI-Jethakejabaz-/assets/37140352/af2aa710-650f-459f-a40b-30374962b3b3)
+
 
   
 ## Tech Stack: 
