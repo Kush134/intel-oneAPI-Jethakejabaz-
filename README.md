@@ -6,7 +6,8 @@
 
 ## A Brief of the Prototype:
   This section must include UML Daigrms and prototype description
-  ![image](https://ibb.co/1JpNSC0)
+  ![Screenshot_1](https://github.com/Kush134/intel-oneAPI-Jethakejabaz-/assets/37140352/f3ee9dfd-a5ba-4d39-81bf-eb951f341156)
+
   
 ## Tech Stack: 
    List Down all technologies used to Build the prototype **Clearly mentioning Intel® AI Analytics Toolkits, it's libraries and the SYCL/DCP++ Libraries used**
