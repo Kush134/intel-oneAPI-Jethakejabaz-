@@ -40,8 +40,11 @@
 ## Step-by-Step Code Execution Instructions:
   This Section must contain set of instructions required to clone and run the prototype, so that it can be tested and deeply analysed
   
+  
+  
   `Codie`
-  An AI powered chatbot that is intended to help you with your Software Interview Preparation and doubts related to coding problems. Codie runs on the GPT-3 integrating with Intel One Api model, and is programmed specifically for Open Innovation in Education use case. 
+    
+An AI powered chatbot that is intended to help you with your Software Interview Preparation and doubts related to coding problems. Codie runs on the GPT-3 integrating with Intel One Api model, and is programmed specifically for Open Innovation in Education use case. 
    
    
 ### How to Install the extension
