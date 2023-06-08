@@ -28,6 +28,15 @@
 ## Tech Stack: 
    List Down all technologies used to Build the prototype **Clearly mentioning Intel® AI Analytics Toolkits, it's libraries and the SYCL/DCP++ Libraries used**
    
+   **Intel Math Kernel Library (MKL) to optimize numerical computations.
+
+Intel Distribution for Python or the Intel Data Analytics Acceleration Library (DAAL) to perform data analytics tasks on the output of the GPT-3 API. These libraries provide optimized functions for data manipulation, statistics, and machine learning that can speed up processing.
+![image](https://github.com/Kush134/intel-oneAPI-Jethakejabaz-/assets/37140352/1f04f83a-b280-4e20-a865-ab7f0a99bf27)
+
+   
+   ![Screenshot_5](https://github.com/Kush134/intel-oneAPI-Jethakejabaz-/assets/37140352/d5e88507-9972-4837-89e8-31e48fcbad6d)
+
+   
 ## Step-by-Step Code Execution Instructions:
   This Section must contain set of instructions required to clone and run the prototype, so that it can be tested and deeply analysed
   
