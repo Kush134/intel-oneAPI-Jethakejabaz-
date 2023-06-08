@@ -6,6 +6,7 @@
 
 ## A Brief of the Prototype:
   This section must include UML Daigrms and prototype description
+  ![image](https://ibb.co/1JpNSC0)
   
 ## Tech Stack: 
    List Down all technologies used to Build the prototype **Clearly mentioning Intel® AI Analytics Toolkits, it's libraries and the SYCL/DCP++ Libraries used**
