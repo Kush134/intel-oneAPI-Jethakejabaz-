@@ -1,7 +1,7 @@
 # intel-oneAPI
 
-#### Team Name -
-#### Problem Statement - 
+#### Team Name - Jethakejabaz
+#### Problem Statement - Open Innovation in Education 
 #### Team Leader Email -
 
 ## A Brief of the Prototype:
