@@ -6,7 +6,10 @@
 
 ## A Brief of the Prototype:
   This section must include UML Daigrms and prototype description
+  
+  
   `Architecture Diagram`
+  
   ![Screenshot_1](https://github.com/Kush134/intel-oneAPI-Jethakejabaz-/assets/37140352/f3ee9dfd-a5ba-4d39-81bf-eb951f341156)
 
   
