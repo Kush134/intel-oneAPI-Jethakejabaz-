@@ -40,5 +40,48 @@
 ## Step-by-Step Code Execution Instructions:
   This Section must contain set of instructions required to clone and run the prototype, so that it can be tested and deeply analysed
   
+  `Codie`
+  An AI powered chatbot that is intended to help you with your Software Interview Preparation and doubts related to coding problems. Codie runs on the GPT-3 integrating with Intel One Api model, and is programmed specifically for Open Innovation in Education use case. 
+   
+   
+##How to Install the extension
+
+0. Download the build/ folder from [here](https://drive.google.com/drive/folders/1Rgn7SwjAYUYvbV8vGjwRazjggD3C0TEE?usp=share_link) and skip to step 4  And i have also added the build folder in this repo itself you can use that also. 
+
+OR    
+
+1. Clone/Download this repo  
+
+2. At the root folder, create a .env file with the following content
+```
+REACT_APP_GPT_API = <OpenAI_API_KEY>
+```
+Since keys can't be uploaded on public repos, you will have to create your own API key from [OpenAI](https://platform.openai.com/account/api-keys).
+
+3. Run the following commands
+```
+npm install
+npm run build
+```
+
+4. Go to chrome://extensions  
+ 
+5. Enable "Developer mode"
+
+6. In the Developer options, click on "Load unpacked"  
+
+7. Select the build/ folder from the repo
+
+## Supported Platforms
+Currently, Codie supports questions from the following platforms
+- Leetcode
+- AlgoExpert
+- Hackerrank
+- Geeksforgeeks
+- Interviewbit
+
+**Additionally, Codie doesn't not work during live tests or contests, and we don't condone or encourage cheating.**
+ 
+  
 ## What I Learned:
    Write about the biggest learning you had while developing the prototype
