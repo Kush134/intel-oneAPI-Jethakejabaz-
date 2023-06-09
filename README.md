@@ -3,7 +3,7 @@
 #### **Team Name** - Jethakejabaz
 #### **Problem Statement** - Open Innovation in Education 
 #### **Team Leader Email** - sachinmishra4585@gmail.com 
-#### **Medium Blog** - [Codie: AI-Powered Chatbot Revolutionising Software Interview Preparation]('https://kushsah42.medium.com/codie-ai-powered-chatbot-revolutionising-software-interview-preparation-8284217565a7') 
+#### **Medium Blog** - [Codie: AI-Powered Chatbot Revolutionising Software Interview Preparation](https://kushsah42.medium.com/codie-ai-powered-chatbot-revolutionising-software-interview-preparation-8284217565a7) 
 
 ## A Brief of the Prototype:
   *(This section must include UML Diagrams and prototype description)*
