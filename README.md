@@ -5,7 +5,12 @@
 #### **Team Leader Email** - sachinmishra4585@gmail.com 
 
 ## A Brief of the Prototype:
-  This section must include UML Diagrams and prototype description
+  *(This section must include UML Diagrams and prototype description)*
+
+  
+  `Codie`
+    
+An AI powered chatbot that is intended to help you with your Software Interview Preparation and doubts related to coding problems. Codie runs on the GPT-3 integrating with Intel One Api model, and is programmed specifically for Open Innovation in Education use case. 
   
   
   `Architecture Diagram`
@@ -26,11 +31,11 @@
 
   
 ## Tech Stack: 
-   List Down all technologies used to Build the prototype **Clearly mentioning Intel® AI Analytics Toolkits, it's libraries and the SYCL/DCP++ Libraries used**
+   *(List Down all technologies used to Build the prototype **Clearly mentioning Intel® AI Analytics Toolkits, it's libraries and the SYCL/DCP++ Libraries used** )*
    
-   **Intel Math Kernel Library (MKL) to optimize numerical computations.**
+   * **Intel Math Kernel Library (MKL) to optimize numerical computations.**
 
-**Intel Distribution for Python or the Intel Data Analytics Acceleration Library (DAAL)** to perform data analytics tasks on the output of the GPT-3 API. These libraries provide optimized functions for data manipulation, statistics, and machine learning that can speed up processing.
+* **Intel Distribution for Python or the Intel Data Analytics Acceleration Library (DAAL)** to perform data analytics tasks on the output of the GPT-3 API. These libraries provide optimized functions for data manipulation, statistics, and machine learning that can speed up processing.
 
 
    
@@ -38,13 +43,7 @@
 
    
 ## Step-by-Step Code Execution Instructions:
-  This Section must contain set of instructions required to clone and run the prototype, so that it can be tested and deeply analysed
-  
-  
-  
-  `Codie`
-    
-An AI powered chatbot that is intended to help you with your Software Interview Preparation and doubts related to coding problems. Codie runs on the GPT-3 integrating with Intel One Api model, and is programmed specifically for Open Innovation in Education use case. 
+  *(This Section must contain set of instructions required to clone and run the prototype, so that it can be tested and deeply analysed)*
    
    
 ### How to Install the extension
